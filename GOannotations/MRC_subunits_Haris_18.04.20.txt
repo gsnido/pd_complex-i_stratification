@@ -1,0 +1,149 @@
+MRC.complex	Entrez.ID	MouseOrthologGeneID	EnsemblGeneID	Symbol	Localization.function.in.complex	Family	Description	Pfam	Symbol_Old
+complex I	4535	17716	ENSG00000198888	MT-ND1	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 1 (complex I)"	Pfam PF05347	MT-ND1
+complex I	4536	17717	ENSG00000198763	MT-ND2	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 2 (complex I)"	Pfam PF15088	MT-ND2
+complex I	4537	17718	ENSG00000198840	MT-ND3	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 3 (complex I)"	Pfam PF06374	MT-ND3
+complex I	4538	17719	ENSG00000198886	MT-ND4	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 4 (complex I)"	Pfam PF00384	MT-ND4
+complex I	4539	17720	ENSG00000212907	MT-ND4L	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 4L (complex I)"	Pfam PF00346	MT-ND4L
+complex I	4540	17721	ENSG00000198786	MT-ND5	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 5 (complex I)"	Pfam PF00329	MT-ND5
+complex I	4541	17722	ENSG00000198695	MT-ND6	core subunit	mtDNA encoded	"NADH dehydrogenase, subunit 6 (complex I)"	Pfam PF04800	MT-ND6
+complex I	4719	227197	ENSG00000023228	NDUFS1	core subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)"	Pfam PF10200	NDUFS1
+complex I	4720	226646	ENSG00000158864	NDUFS2	core subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)"	Pfam PF10276	NDUFS2
+complex I	4722	68349	ENSG00000213619	NDUFS3	core subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)"		NDUFS3
+complex I	374291	75406	ENSG00000115286	NDUFS7	core subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)"	Pfam PF12838	NDUFS7
+complex I	4728	225887	ENSG00000110717	NDUFS8	core subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)"	Pfam PF01512	NDUFS8
+complex I	4723	17995	ENSG00000167792	NDUFV1	core subunit	NADH dehydrogenase (ubiquinone) flavoprotein 1	"NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa"	Pfam PF01257	NDUFV1
+complex I	4729	72900	ENSG00000178127	NDUFV2	core subunit	NADH dehydrogenase (ubiquinone) flavoprotein 2	"NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa"	-	NDUFV2
+complex I	4694	54405	ENSG00000125356	NDUFA1	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1, 7.5kDa"	Pfam PF00146	NDUFA1
+complex I	4705	67273	ENSG00000130414	NDUFA10	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa"	"Pfam PF00361, Pfam PF06444"	NDUFA10
+complex I	126328	69875	ENSG00000174886	NDUFA11	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 11, 14.7kDa"	Pfam PF00507	NDUFA11
+complex I	55967	66414	ENSG00000184752	NDUFA12	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12"	"Pfam PF01059, Pfam PF00361"	NDUFA12
+complex I	51079	67184	ENSG00000186010	NDUFA13	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13"	Pfam PF00420	NDUFA13
+complex I	4695	17991	ENSG00000131495	NDUFA2	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa"	"Pfam PF00361, Pfam PF06455, Pfam PF00662"	NDUFA2
+complex I	4696	66091	ENSG00000170906	NDUFA3	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3, 9kDa"	Pfam PF00499	NDUFA3
+complex I	4698	68202	ENSG00000128609	NDUFA5	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5"	Pfam PF15879	NDUFA5
+complex I	4700	67130	ENSG00000184983	NDUFA6	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa"	Pfam PF01712	NDUFA6
+complex I	4701	66416	ENSG00000167774	NDUFA7	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7, 14.5kDa"	Pfam PF02466	NDUFA7
+complex I	4702	68375	ENSG00000119421	NDUFA8	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa"	Pfam PF05071	NDUFA8
+complex I	4704	66108	ENSG00000139180	NDUFA9	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa"	Pfam PF06212	NDUFA9
+complex I	4706	70316	ENSG00000004779	NDUFAB1	accessory subunit	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa"	Pfam PF05047	NDUFAB1
+complex I	4707	NA	ENSG00000183648	NDUFB1	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 1, 7kDa"	Pfam PF14987	NDUFB1
+complex I	4716	68342	ENSG00000140990	NDUFB10	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa"	Pfam PF04716	NDUFB10
+complex I	54539	104130	ENSG00000147123	NDUFB11	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11, 17.3kDa"	Pfam PF05347	NDUFB11
+complex I	4708	68198	ENSG00000090266	NDUFB2	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa"	Pfam PF07347	NDUFB2
+complex I	4709	66495	ENSG00000119013	NDUFB3	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa"	Pfam PF06747	NDUFB3
+complex I	4710	68194	ENSG00000065518	NDUFB4	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa"	Pfam PF01370	NDUFB4
+complex I	4711	66046	ENSG00000136521	NDUFB5	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa"	Pfam PF00550	NDUFB5
+complex I	4712	230075	ENSG00000165264	NDUFB6	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 6, 17kDa"	Pfam PF08547	NDUFB6
+complex I	4713	66916	ENSG00000099795	NDUFB7	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa"	Pfam PF05071	NDUFB7
+complex I	4714	67264	ENSG00000166136	NDUFB8	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa"	Pfam PF05071	NDUFB8
+complex I	4715	66218	ENSG00000147684	NDUFB9	accessory subunit	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa"	Pfam PF0678	NDUFB9
+complex I	4717	66377	ENSG00000109390	NDUFC1	accessory subunit	"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown"	"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1, 6kDa"	Pfam PF08040	NDUFC1
+complex I	4718	68197	ENSG00000151366	NDUFC2	accessory subunit	"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown"	"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2, 14.5kDa"	Pfam PF10249	NDUFC2
+complex I	4724	17993	ENSG00000164258	NDUFS4	accessory subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)"	Pfam PF10183	NDUFS4
+complex I	4725	595136	ENSG00000168653	NDUFS5	accessory subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase)"	Pfam PF14813	NDUFS5
+complex I	4726	407785	ENSG00000145494	NDUFS6	accessory subunit	NADH dehydrogenase (ubiquinone) Fe-S protein	"NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase)"	Pfam PF08122	NDUFS6
+complex I	4731	78330	ENSG00000160194	NDUFV3	accessory subunit	NADH dehydrogenase (ubiquinone) flavoprotein 3	"NADH dehydrogenase (ubiquinone) flavoprotein 3, 10kDa"	Pfam PF07225	NDUFV3
+complex I	51103	69702	ENSG00000137806	NDUFAF1	assembly factor	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) complex I, assembly factor 1"	Pfam PF09781	NDUFAF1
+complex I	91942	75597	ENSG00000164182	NDUFAF2	assembly factor	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) complex I, assembly factor 2"	Pfam PF09782	NDUFAF2
+complex I	25915	66706	ENSG00000178057	NDUFAF3	assembly factor	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) complex I, assembly factor 3"	Pfam PF05676	NDUFAF3
+complex I	29078	68493	ENSG00000123545	NDUFAF4	assembly factor	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	"NADH dehydrogenase (ubiquinone) complex I, assembly factor 4"	Pfam PF05821	NDUFAF4
+complex II	6389	66945	ENSG00000073578	SDHA	subunit		"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)"		SDHA
+complex II	6390	67680	ENSG00000117118	SDHB	subunit		"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)"		SDHB
+complex II	6391	66052	ENSG00000143252	SDHC	subunit		"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa"		SDHC
+complex II	6392	66925	ENSG00000204370	SDHD	subunit		"succinate dehydrogenase complex, subunit D, integral membrane protein"		SDHD
+complex II	644096	68332	ENSG00000205138	SDHAF1	assembly factor		succinate dehydrogenase complex assembly factor 1		SDHAF1
+complex II	54949	66072	ENSG00000167985	SDHAF2	assembly factor		succinate dehydrogenase complex assembly factor 2		SDHAF2
+complex III	4519	17711	ENSG00000198727	MT-CYB	subunit	mtDNA encoded	cytochrome b		MT-CYB
+complex III	7381	67530	ENSG00000156467	UQCRB	subunit		ubiquinol-cytochrome c reductase binding protein		UQCRB
+complex III	7384	22273	ENSG00000010256	UQCRC1	subunit		ubiquinol-cytochrome c reductase core protein I		UQCRC1
+complex III	7385	67003	ENSG00000140740	UQCRC2	subunit		ubiquinol-cytochrome c reductase core protein II		UQCRC2
+complex III	7388	66576	ENSG00000173660	UQCRH	subunit		ubiquinol-cytochrome c reductase hinge protein		UQCRH
+complex III	27089	22272	ENSG00000164405	UQCRQ	subunit		"ubiquinol-cytochrome c reductase, complex III subunit VII, 9.5kDa"		UQCRQ
+complex III	29796	66152	ENSG00000184076	UQCR10	subunit		"ubiquinol-cytochrome c reductase, complex III subunit X"		UQCR10
+complex III	10975	66594	ENSG00000127540	UQCR11	subunit		"ubiquinol-cytochrome c reductase, complex III subunit XI"		UQCR11
+complex III	7386	66694	ENSG00000169021	UQCRFS1	subunit		"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1"		UQCRFS1
+complex III	55245	56046	ENSG00000101019	UQCC1	assembly factor		ubiquinol-cytochrome c reductase complex assembly factor 1		UQCC1
+complex III	84300	67267	ENSG00000137288	UQCC2	assembly factor		ubiquinol-cytochrome c reductase complex assembly factor 2		UQCC2
+complex III	54902	72795	ENSG00000011295	TTC19	assembly factor		required for formation of the mitochondrial complex III 		TTC19
+complex IV	4512	17708	ENSG00000198804	MT-CO1	subunit	mtDNA encoded	cytochrome c oxidase subunit I		MT-CO1
+complex IV	4513	17709	ENSG00000198712	MT-CO2	subunit	mtDNA encoded	cytochrome c oxidase subunit II		MT-CO2
+complex IV	4514	17710	ENSG00000198938	MT-CO3	subunit	mtDNA encoded	cytochrome c oxidase III		MT-CO3
+complex IV	1327	12857	ENSG00000131143	COX4I1	subunit		cytochrome c oxidase subunit IV isoform 1		COX4I1
+complex IV	84701	84682	ENSG00000131055	COX4I2	subunit		cytochrome c oxidase subunit IV isoform 2 (lung)		COX4I2
+complex IV	9377	12858	ENSG00000178741	COX5A	subunit		cytochrome c oxidase subunit Va		COX5A
+complex IV	1329	12859	ENSG00000135940	COX5B	subunit		cytochrome c oxidase subunit Vb		COX5B
+complex IV	1337	12861	ENSG00000111775	COX6A1	subunit		cytochrome c oxidase subunit VIa polypeptide 1		COX6A1
+complex IV	1339	12862	ENSG00000156885	COX6A2	subunit		cytochrome c oxidase subunit VIa polypeptide 2		COX6A2
+complex IV	1340	110323	ENSG00000126267	COX6B1	subunit		cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous)		COX6B1
+complex IV	125965	333182	ENSG00000160471	COX6B2	subunit		cytochrome c oxidase subunit VIb polypeptide 2 (testis)		COX6B2
+complex IV	1345	12864	ENSG00000164919	COX6C	subunit		cytochrome c oxidase subunit VIc		COX6C
+complex IV	1346	12865	ENSG00000161281	COX7A1	subunit		cytochrome c oxidase subunit VIIa polypeptide 1 (muscle)		COX7A1
+complex IV	1347	12866	ENSG00000112695	COX7A2	subunit		cytochrome c oxidase subunit VIIa polypeptide 2 (liver)		COX7A2
+complex IV	1349	66142	ENSG00000131174	COX7B	subunit		cytochrome c oxidase subunit VIIb		COX7B
+complex IV	170712	NA	ENSG00000170516	COX7B2	subunit		cytochrome c oxidase subunit 7B		COX7B2
+complex IV	1350	12867	ENSG00000127184	COX7C	subunit		cytochrome c oxidase subunit VIIc		COX7C
+complex IV	1351	12868	ENSG00000176340	COX8A	subunit		cytochrome c oxidase subunit VIIIA (ubiquitous)		COX8A
+complex IV	341947	75483	ENSG00000187581	COX8C	subunit		cytochrome c oxidase subunit VIIIC		COX8C
+complex IV	4697	17992	ENSG00000189043	NDUFA4	subunit (alias COXFA4)		"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa"		NDUFA4
+complex IV	152100	67899	ENSG00000187118	CMC1	assembly factor		required for COX assembly		CMC1
+complex IV	55744	NA	ENSG00000106603	COA1	assembly factor		cytochrome c oxidase assembly factor 1 homolog (S. cerevisiae)		COA1
+complex IV	28958	52469	ENSG00000183978	COA3	assembly factor		cytochrome c oxidase assembly factor 3		COA3
+complex IV	51287	68185	ENSG00000181924	COA4	assembly factor		cytochrome c oxidase assembly factor 4 homolog (S. cerevisiae)		COA4
+complex IV	493753	76178	ENSG00000183513	COA5	assembly factor		cytochrome c oxidase assembly factor 5		COA5
+complex IV	388753	67892	ENSG00000168275	COA6	assembly factor		cytochrome c oxidase assembly factor 6 homolog (S. cerevisiae)		COA6
+complex IV	65260	69893	ENSG00000162377	COA7	assembly factor		cytochrome c oxidase assembly factor 7 (putative)		COA7
+complex IV	1353	69802	ENSG00000166260	COX11	assembly factor		cytochrome c oxidase assembly homolog 11 (yeast)		COX11
+complex IV	84987	66379	ENSG00000178449	COX14	assembly factor		cytochrome c oxidase assembly homolog 14 (S. cerevisiae)		COX14
+complex IV	51241	66272	ENSG00000133983	COX16	assembly factor		COX16 cytochrome c oxidase assembly homolog (S. cerevisiae)		COX16
+complex IV	10063	12856	ENSG00000138495	COX17	assembly factor		COX17 cytochrome c oxidase copper chaperone		COX17
+complex IV	285521	231430	ENSG00000163626	COX18	assembly factor		COX18 cytochrome C oxidase assembly factor		COX18
+complex IV	90639	68033	ENSG00000240230	COX19	assembly factor		cytochrome c oxidase assembly homolog 19 (S. cerevisiae)		COX19
+complex IV	116228	66359	ENSG00000203667	COX20	assembly factor		COX20 cytochrome C oxidase assembly factor		COX20
+complex IV	5018	69089	ENSG00000155463	OXA1L	assembly factor		oxidase (cytochrome c) assembly 1-like		OXA1L
+complex IV	6341	52892	ENSG00000133028	SCO1	assembly factor		SCO1 cytochrome c oxidase assembly protein		SCO1
+complex IV	9997	100126824	ENSG00000130489	SCO2	assembly factor		SCO2 cytochrome c oxidase assembly protein		SCO2
+complex IV	6834	20930	ENSG00000148290	SURF1	assembly factor		complex IV assembly		SURF1
+complex IV	80775	NA	ENSG00000144120	TMEM177	assembly factor		transmembrane protein 177		TMEM177
+complex IV	100131801	NA	ENSG00000229833	PET100	assembly factor		PET100 cytochrome c oxidase chaperone		PET100
+complex IV	100303755	NA	ENSG00000232838	PET117	assembly factor		PET117 cytochrome c oxidase chaperone		PET117
+complex IV	1352	70383	ENSG00000006695	COX10	essential for biosynthesis of heme O		cytochrome c oxidase assembly homolog 10 (yeast)		COX10
+complex IV	1355	226139	ENSG00000014919	COX15	essential for biosynthesis of heme A		cytochrome c oxidase assembly homolog 15 (yeast)		COX15
+complex IV	56942	66531	ENSG00000103121	CMC2	putative assembly factor		required for COX assembly		CMC2
+complex V	4508	17705	ENSG00000198899	MT-ATP6	subunit	mtDNA encoded	ATP synthase F0 subunit 6		MT-ATP6
+complex V	4509	17706	ENSG00000228253	MT-ATP8	subunit	mtDNA encoded	ATP synthase F0 subunit 8		MT-ATP8
+complex V	498	11946	ENSG00000152234	ATP5F1A	subunit		"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle"		ATP5A1
+complex V	506	11947	ENSG00000110955	ATP5F1B	subunit		"ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide"		ATP5B
+complex V	513	66043	ENSG00000099624	ATP5F1D	subunit		"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit"		ATP5D
+complex V	514	67126	ENSG00000124172	ATP5F1E	subunit		"ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit"		ATP5E
+complex V	509	11949	ENSG00000165629	ATP5F1C	subunit		"ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1"		ATP5C1
+complex V	539	28080	ENSG00000241837	ATP5PO	subunit		"ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit"		ATP5O
+complex V	515	11950	ENSG00000116459	ATP5PB	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit B1"		ATP5F1
+complex V	516	11951	ENSG00000159199	ATP5MC1	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C1 (subunit 9)"		ATP5G1
+complex V	517	67942	ENSG00000135390	ATP5MC2	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C2 (subunit 9)"		ATP5G2
+complex V	518	228033	ENSG00000154518	ATP5MC3	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C3 (subunit 9)"		ATP5G3
+complex V	10476	71679	ENSG00000167863	ATP5PD	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit d"		ATP5H
+complex V	521	11958	ENSG00000169020	ATP5ME	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit E"		ATP5I
+complex V	9551	57423	ENSG00000241468	ATP5MF	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit F2"		ATP5J2
+complex V	522	11957	ENSG00000154723	ATP5PF	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit F6"		ATP5J
+complex V	10632	27425	ENSG00000167283	ATP5MG	subunit		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit G"		ATP5L
+complex V	93974	NA	ENSG00000130770	ATP5IF1	subunit		ATP synthase inhibitory factor subunit 1		ATPIF1
+complex V	9556	NA	ENSG00000156411	ATP5MPL	subunit		ATP synthase membrane subunit 6.8PL		C14orf2
+complex V	84833	NA	ENSG00000173915	ATP5MD	subunit		ATP synthase membrane subunit DAPIT		USMG5
+complex V	64756	230649	ENSG00000123472	ATPAF1	assembly factor		ATP synthase mitochondrial F1 complex assembly factor 1		ATPAF1
+complex V	91647	246782	ENSG00000171953	ATPAF2	assembly factor		ATP synthase mitochondrial F1 complex assembly factor 2		ATPAF2
+complex V	54968	70397	ENSG00000175606	TMEM70	assembly factor		Involved in biogenesis of mitochondrial ATP synthase		TMEM70
+complex V	27109	68055	ENSG00000125375	DMAC2L	assembly factor		"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit s (factor B)"		ATP5S
+coenzyme Q	56997	67426	ENSG00000163050	ADCK3	biosynthesis of coenzyme Q (ubiquinone)		aarF domain containing kinase 3		ADCK3
+coenzyme Q	79934	76889	ENSG00000123815	ADCK4	biosynthesis of coenzyme Q (ubiquinone)		aarF domain containing kinase 4		ADCK4
+coenzyme Q	27235	71883	ENSG00000173085	COQ2	biosynthesis of coenzyme Q (ubiquinone)		coenzyme Q2 4-hydroxybenzoate polyprenyltransferase		COQ2
+coenzyme Q	51805	230027	ENSG00000132423	COQ3	biosynthesis of coenzyme Q (ubiquinone)		coenzyme Q3 methyltransferase		COQ3
+coenzyme Q	51117	227683	ENSG00000167113	COQ4	biosynthesis of coenzyme Q (ubiquinone)		coenzyme Q4		COQ4
+coenzyme Q	84274	52064	ENSG00000110871	COQ5	biosynthesis of coenzyme Q (ubiquinone)		"coenzyme Q5 homolog, methyltransferase (S. cerevisiae)"		COQ5
+coenzyme Q	51004	217707	ENSG00000119723	COQ6	biosynthesis of coenzyme Q (ubiquinone)		coenzyme Q6 monooxygenase		COQ6
+coenzyme Q	10229	12850	ENSG00000167186	COQ7	biosynthesis of coenzyme Q (ubiquinone)		"coenzyme Q7 homolog, ubiquinone (yeast)"		COQ7
+coenzyme Q	57017	67914	ENSG00000088682	COQ9	biosynthesis of coenzyme Q (ubiquinone)		coenzyme Q9		COQ9
+coenzyme Q	93058	210582	ENSG00000135469	COQ10A	Required for the function of coenzyme Q in the respiratory chain		"Coenzyme Q-binding protein COQ10 homolog A, mitochondrial"		COQ10A
+coenzyme Q	80219	67876	ENSG00000115520	COQ10B	Required for the function of coenzyme Q in the respiratory chain		"Coenzyme Q-binding protein COQ10 homolog B, mitochondrial"		COQ10B
+cytochrome c	54205	13063	ENSG00000172115	CYCS	cytochrome c		"Cytochrome c; Electron carrier protein. The oxidized form of the cytochrome c heme group can accept an electron from the heme group of the cytochrome c1 subunit of cytochrome reductase. Cytochrome c then transfers this electron to the cytochrome oxidase complex, the final protein carrier in the mitochondrial electron-transport chain"		CYCS
+cytochrome c	1537	66445	ENSG00000179091	CYC1	cytochrome c		"Cytochrome c1, heme protein, mitochondrial; This is the heme-containing component of the cytochrome b-c1 complex, which accepts electrons from Rieske protein and transfers electrons to cytochrome c in the mitochondrial respiratory chain; Apoptosome"		CYC1
+cytochrome c	3052	15159	ENSG00000004961	HCCS	cytochrome c assembly		Cytochrome c-type heme lyase; Links covalently the heme group to the apoprotein of cytochrome c		HCCS
